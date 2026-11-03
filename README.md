@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.gif" width="100%" alt="Robin Palm — Java developer, full-stack development and system design" />
+  <img src="./banner.gif" width="100%" alt="Robin Palm — Java developer, full-stack development and system design" />
 </div>
 
 <br>
@@ -45,7 +45,7 @@ I care about clean structure, thoughtful architecture and applications that solv
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Pelmm/BookingAPI"><img src="./assets/bookingapi.png" width="100%" alt="BookingAPI architecture illustration" /></a>
+      <a href="https://github.com/Pelmm/BookingAPI"><img src="./bookingapi.png" width="100%" alt="BookingAPI architecture illustration" /></a>
       <br>
       <strong><a href="https://github.com/Pelmm/BookingAPI">BookingAPI</a></strong> · Backend / Scalable services
       <br>
@@ -54,7 +54,7 @@ I care about clean structure, thoughtful architecture and applications that solv
       <code>Java</code> <code>Spring Boot</code> <code>PostgreSQL</code> <code>Docker</code>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Pelmm/Avspark"><img src="./assets/avspark.png" width="100%" alt="Avspark football news frontend illustration" /></a>
+      <a href="https://github.com/Pelmm/Avspark"><img src="./avspark.png" width="100%" alt="Avspark football news frontend illustration" /></a>
       <br>
       <strong><a href="https://github.com/Pelmm/Avspark">Avspark</a></strong> · Frontend / Web
       <br>
@@ -65,7 +65,7 @@ I care about clean structure, thoughtful architecture and applications that solv
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Pelmm/FilmApp"><img src="./assets/filmapp.png" width="100%" alt="FilmApp mobile and API architecture illustration" /></a>
+      <a href="https://github.com/Pelmm/FilmApp"><img src="./filmapp.png" width="100%" alt="FilmApp mobile and API architecture illustration" /></a>
       <br>
       <strong><a href="https://github.com/Pelmm/FilmApp">FilmApp</a></strong> · Mobile / Full-stack
       <br>
@@ -74,7 +74,7 @@ I care about clean structure, thoughtful architecture and applications that solv
       <code>React Native</code> <code>Expo</code> <code>Express</code> <code>MongoDB</code>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Pelmm/FinanceDB"><img src="./assets/financedb.png" width="100%" alt="FinanceDB finance and database illustration" /></a>
+      <a href="https://github.com/Pelmm/FinanceDB"><img src="./financedb.png" width="100%" alt="FinanceDB finance and database illustration" /></a>
       <br>
       <strong><a href="https://github.com/Pelmm/FinanceDB">FinanceDB</a></strong> · Java / Data
       <br>
