@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="650" viewBox="0 0 1200 650">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#060F22"/><stop offset=".52" stop-color="#0D2542"/><stop offset="1" stop-color="#051427"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#26D8F8"/><stop offset="1" stop-color="#19A6E6"/></linearGradient>
+  <linearGradient id="pane" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#102B48"/><stop offset="1" stop-color="#071629"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#167BA5" stop-opacity=".36"/><stop offset="1" stop-color="#167BA5" stop-opacity="0"/></radialGradient>
+  <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#78A7C4" opacity=".13"/></pattern>
+  <filter id="shadow" x="-30%" y="-30%" width="160%" height="180%"><feGaussianBlur stdDeviation="8"/></filter>
+</defs>
+<rect width="1200" height="650" fill="url(#bg)"/><rect width="1200" height="650" fill="url(#dots)"/>
+<ellipse cx="648" cy="487" rx="480" ry="325" fill="url(#glow)"/>
+
+<rect x="24" y="24" width="1152" height="602" rx="24" fill="none" stroke="#2F6685" stroke-width="2"/>
+<circle cx="1140" cy="55" r="180" fill="#155779" opacity=".15"/>
+<rect x="60" y="57" width="8" height="58" rx="4" fill="#B29BFA"/>
+<text x="88" y="80" fill="#B29BFA" font-size="17" font-weight="700" font-family="Inter, Arial, sans-serif" text-anchor="start" letter-spacing="3.6">MOBILE  /  FULL-STACK</text>
+<text x="88" y="139" fill="#FFFFFF" font-size="49" font-weight="760" font-family="Inter, Arial, sans-serif" text-anchor="start">FilmApp</text>
+<text x="88" y="182" fill="#BED5E8" font-size="22" font-weight="470" font-family="Inter, Arial, sans-serif" text-anchor="start">Movie discovery, accounts and reviews powered by TMDB.</text>
+<line x1="88" y1="207" x2="1112" y2="207" stroke="#2C5675" stroke-width="1.5" opacity="1"/>
+<text x="90" y="591" fill="#80A4BE" font-size="15" font-weight="650" font-family="Inter, Arial, sans-serif" text-anchor="start" letter-spacing="2">ROBIN PALM  /  GITHUB.COM/PELMM</text>
+<rect x="115" y="232" width="340" height="292" rx="22" fill="#0E2440" stroke="#42567B" stroke-width="2"/>
+<rect x="144" y="250" width="282" height="253" rx="14" fill="#121A34"/>
+<text x="166" y="285" fill="#D6CAFF" font-size="20" font-weight="740" font-family="Inter, Arial, sans-serif" text-anchor="start" letter-spacing="3">DISCOVER</text>
+<text x="166" y="328" fill="#FFFFFF" font-size="23" font-weight="750" font-family="Inter, Arial, sans-serif" text-anchor="start">Find your next</text>
+<text x="166" y="357" fill="#FFFFFF" font-size="23" font-weight="750" font-family="Inter, Arial, sans-serif" text-anchor="start">favorite movie.</text>
+<rect x="163" y="380" width="232" height="39" rx="9" fill="#263458"/>
+<text x="181" y="407" fill="#A9B6D2" font-size="17" font-weight="450" font-family="Inter, Arial, sans-serif" text-anchor="start">Search movies...</text>
+<rect x="163" y="435" width="68" height="48" rx="8" fill="#5C4C90"/>
+<rect x="244" y="435" width="68" height="48" rx="8" fill="#285B7D"/>
+<rect x="326" y="435" width="68" height="48" rx="8" fill="#8B4B61"/>
+<text x="278" y="541" fill="#D6C9FF" font-size="16" font-weight="700" font-family="Inter, Arial, sans-serif" text-anchor="middle">React Native + Expo</text>
+<line x1="477" y1="367" x2="576" y2="367" stroke="#B09CFF" stroke-width="3" opacity="1"/><polygon points="576,367 563,358 563,376" fill="#B09CFF"/>
+<rect x="577" y="280" width="250" height="185" rx="17" fill="#182844" stroke="#56558E" stroke-width="2"/>
+<text x="702" y="322" fill="#E9DFFF" font-size="26" font-weight="760" font-family="Inter, Arial, sans-serif" text-anchor="middle">EXPRESS API</text>
+<text x="702" y="359" fill="#C8BCD9" font-size="17" font-weight="500" font-family="Inter, Arial, sans-serif" text-anchor="middle">authentication</text>
+<text x="702" y="386" fill="#C8BCD9" font-size="17" font-weight="500" font-family="Inter, Arial, sans-serif" text-anchor="middle">movie search</text>
+<text x="702" y="413" fill="#C8BCD9" font-size="17" font-weight="500" font-family="Inter, Arial, sans-serif" text-anchor="middle">reviews</text>
+<line x1="830" y1="364" x2="896" y2="300" stroke="#A9D0FC" stroke-width="3" opacity="1"/><polygon points="896,300 883,291 883,309" fill="#A9D0FC"/>
+<line x1="830" y1="382" x2="896" y2="451" stroke="#47D9C8" stroke-width="3" opacity="1"/><polygon points="896,451 887,438 905,438" fill="#47D9C8"/>
+<rect x="907" y="255" width="234" height="88" rx="14" fill="#1B3458" stroke="#347EB0" stroke-width="2"/>
+<text x="1024" y="289" fill="#E6F5FF" font-size="22" font-weight="750" font-family="Inter, Arial, sans-serif" text-anchor="middle">TMDB API</text>
+<text x="1024" y="319" fill="#B2DDF8" font-size="15" font-weight="550" font-family="Inter, Arial, sans-serif" text-anchor="middle">movie catalog</text>
+<rect x="907" y="416" width="234" height="88" rx="14" fill="#153C42" stroke="#299C90" stroke-width="2"/>
+<text x="1024" y="450" fill="#DAFFF8" font-size="22" font-weight="750" font-family="Inter, Arial, sans-serif" text-anchor="middle">MONGODB</text>
+<text x="1024" y="481" fill="#9DEBDD" font-size="15" font-weight="550" font-family="Inter, Arial, sans-serif" text-anchor="middle">users + reviews</text>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="720" height="720" viewBox="0 0 720 720">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#060F22"/><stop offset=".52" stop-color="#0D2542"/><stop offset="1" stop-color="#051427"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#26D8F8"/><stop offset="1" stop-color="#19A6E6"/></linearGradient>
+  <linearGradient id="pane" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#102B48"/><stop offset="1" stop-color="#071629"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#167BA5" stop-opacity=".36"/><stop offset="1" stop-color="#167BA5" stop-opacity="0"/></radialGradient>
+  <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#78A7C4" opacity=".13"/></pattern>
+  <filter id="shadow" x="-30%" y="-30%" width="160%" height="180%"><feGaussianBlur stdDeviation="8"/></filter>
+</defs>
+<rect width="720" height="720" fill="url(#bg)"/><rect width="720" height="720" fill="url(#dots)"/>
+<ellipse cx="388" cy="540" rx="288" ry="360" fill="url(#glow)"/>
+
+<circle cx="360" cy="360" r="290" fill="#0D2E49" stroke="#26D7F6" stroke-width="9"/>
+<circle cx="360" cy="360" r="258" fill="none" stroke="#3A8BAC" stroke-width="2" opacity=".7"/>
+<path d="M140 475 C265 410 350 490 580 405" fill="none" stroke="#2B7794" stroke-width="7" opacity=".55"/>
+<path d="M145 504 C275 440 388 528 574 452" fill="none" stroke="#21B4CF" stroke-width="4" opacity=".35"/>
+<text x="345" y="450" fill="#F5FCFF" font-size="280" font-weight="800" font-family="Inter, Arial, sans-serif" text-anchor="middle">R</text>
+<circle cx="486" cy="440" r="19" fill="#27DDF8"/>
+<text x="360" y="570" fill="#9EDAE7" font-size="24" font-weight="650" font-family="Inter, Arial, sans-serif" text-anchor="middle" letter-spacing="2">JAVA  /  FULL-STACK</text>
+</svg>

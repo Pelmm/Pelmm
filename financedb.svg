@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="650" viewBox="0 0 1200 650">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#060F22"/><stop offset=".52" stop-color="#0D2542"/><stop offset="1" stop-color="#051427"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#26D8F8"/><stop offset="1" stop-color="#19A6E6"/></linearGradient>
+  <linearGradient id="pane" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#102B48"/><stop offset="1" stop-color="#071629"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#167BA5" stop-opacity=".36"/><stop offset="1" stop-color="#167BA5" stop-opacity="0"/></radialGradient>
+  <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#78A7C4" opacity=".13"/></pattern>
+  <filter id="shadow" x="-30%" y="-30%" width="160%" height="180%"><feGaussianBlur stdDeviation="8"/></filter>
+</defs>
+<rect width="1200" height="650" fill="url(#bg)"/><rect width="1200" height="650" fill="url(#dots)"/>
+<ellipse cx="648" cy="487" rx="480" ry="325" fill="url(#glow)"/>
+
+<rect x="24" y="24" width="1152" height="602" rx="24" fill="none" stroke="#2F6685" stroke-width="2"/>
+<circle cx="1140" cy="55" r="180" fill="#155779" opacity=".15"/>
+<rect x="60" y="57" width="8" height="58" rx="4" fill="#34DABD"/>
+<text x="88" y="80" fill="#34DABD" font-size="17" font-weight="700" font-family="Inter, Arial, sans-serif" text-anchor="start" letter-spacing="3.6">JAVA  /  DATA PERSISTENCE</text>
+<text x="88" y="139" fill="#FFFFFF" font-size="49" font-weight="760" font-family="Inter, Arial, sans-serif" text-anchor="start">FinanceDB</text>
+<text x="88" y="182" fill="#BED5E8" font-size="22" font-weight="470" font-family="Inter, Arial, sans-serif" text-anchor="start">Personal finance management and reporting with JDBC.</text>
+<line x1="88" y1="207" x2="1112" y2="207" stroke="#2C5675" stroke-width="1.5" opacity="1"/>
+<text x="90" y="591" fill="#80A4BE" font-size="15" font-weight="650" font-family="Inter, Arial, sans-serif" text-anchor="start" letter-spacing="2">ROBIN PALM  /  GITHUB.COM/PELMM</text>
+<rect x="94" y="250" width="682" height="286" rx="17" fill="#081927" stroke="#267C7E" stroke-width="2"/>
+<rect x="94" y="250" width="682" height="43" rx="14" fill="#123349"/>
+<circle cx="120" cy="271" r="5" fill="#F4726B"/>
+<circle cx="139" cy="271" r="5" fill="#F5C86C"/>
+<circle cx="157" cy="271" r="5" fill="#37D6A3"/>
+<text x="185" y="279" fill="#A7C9D3" font-size="16" font-weight="500" font-family="ui-monospace,Consolas,monospace" text-anchor="start">finance / transaction report</text>
+<text x="131" y="331" fill="#48E5C6" font-size="20" font-weight="600" font-family="ui-monospace,Consolas,monospace" text-anchor="start">$ ./gradlew run</text>
+<text x="131" y="374" fill="#91BECF" font-size="16" font-weight="650" font-family="ui-monospace,Consolas,monospace" text-anchor="start">INCOME</text>
+<text x="353" y="374" fill="#91BECF" font-size="16" font-weight="650" font-family="ui-monospace,Consolas,monospace" text-anchor="start">EXPENSES</text>
+<text x="575" y="374" fill="#91BECF" font-size="16" font-weight="650" font-family="ui-monospace,Consolas,monospace" text-anchor="start">BALANCE</text>
+<text x="131" y="407" fill="#49E8B7" font-size="27" font-weight="700" font-family="ui-monospace,Consolas,monospace" text-anchor="start">+ 12 500</text>
+<text x="353" y="407" fill="#FBBC7A" font-size="27" font-weight="700" font-family="ui-monospace,Consolas,monospace" text-anchor="start">- 4 210</text>
+<text x="575" y="407" fill="#E4F5FF" font-size="27" font-weight="700" font-family="ui-monospace,Consolas,monospace" text-anchor="start">8 290</text>
+<line x1="130" y1="437" x2="730" y2="437" stroke="#315C70" stroke-width="2" opacity="1"/>
+<text x="131" y="470" fill="#8DC6D0" font-size="18" font-weight="520" font-family="ui-monospace,Consolas,monospace" text-anchor="start">&gt; transaction history loaded</text>
+<text x="131" y="499" fill="#8DC6D0" font-size="18" font-weight="520" font-family="ui-monospace,Consolas,monospace" text-anchor="start">&gt; report generated</text>
+<line x1="789" y1="394" x2="863" y2="394" stroke="#42DAC0" stroke-width="3" opacity="1"/><polygon points="863,394 850,385 850,403" fill="#42DAC0"/>
+<rect x="864" y="284" width="265" height="206" rx="17" fill="#133E46" stroke="#2AA999" stroke-width="2"/>
+<ellipse cx="996" cy="331" rx="84" ry="22" fill="#1F6163" stroke="#67EBD4" stroke-width="3"/>
+<path d="M912 332 V428 Q996 465 1080 428 V332" fill="none" stroke="#61E9D5" stroke-width="3"/>
+<ellipse cx="996" cy="425" rx="84" ry="22" fill="none" stroke="#61E9D5" stroke-width="3"/>
+<text x="996" y="392" fill="#ECFFFF" font-size="24" font-weight="750" font-family="Inter, Arial, sans-serif" text-anchor="middle">PostgreSQL</text>
+<rect x="92" y="562" width="86" height="34" rx="11" fill="#4A422A" stroke="#426482" stroke-width="1"/><text x="109" y="586" fill="#ECF8FF" font-size="16" font-weight="600" font-family="Inter, Arial, sans-serif" text-anchor="start">JAVA</text>
+<rect x="215" y="562" width="86" height="34" rx="11" fill="#1D4C5D" stroke="#426482" stroke-width="1"/><text x="232" y="586" fill="#ECF8FF" font-size="16" font-weight="600" font-family="Inter, Arial, sans-serif" text-anchor="start">JDBC</text>
+<rect x="325" y="562" width="162" height="34" rx="11" fill="#194C52" stroke="#426482" stroke-width="1"/><text x="342" y="586" fill="#ECF8FF" font-size="16" font-weight="600" font-family="Inter, Arial, sans-serif" text-anchor="start">POSTGRESQL</text>
+</svg>

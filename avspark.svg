@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="650" viewBox="0 0 1200 650">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#060F22"/><stop offset=".52" stop-color="#0D2542"/><stop offset="1" stop-color="#051427"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#26D8F8"/><stop offset="1" stop-color="#19A6E6"/></linearGradient>
+  <linearGradient id="pane" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#102B48"/><stop offset="1" stop-color="#071629"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#167BA5" stop-opacity=".36"/><stop offset="1" stop-color="#167BA5" stop-opacity="0"/></radialGradient>
+  <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#78A7C4" opacity=".13"/></pattern>
+  <filter id="shadow" x="-30%" y="-30%" width="160%" height="180%"><feGaussianBlur stdDeviation="8"/></filter>
+</defs>
+<rect width="1200" height="650" fill="url(#bg)"/><rect width="1200" height="650" fill="url(#dots)"/>
+<ellipse cx="648" cy="487" rx="480" ry="325" fill="url(#glow)"/>
+
+<rect x="24" y="24" width="1152" height="602" rx="24" fill="none" stroke="#2F6685" stroke-width="2"/>
+<circle cx="1140" cy="55" r="180" fill="#155779" opacity=".15"/>
+<rect x="60" y="57" width="8" height="58" rx="4" fill="#72E69A"/>
+<text x="88" y="80" fill="#72E69A" font-size="17" font-weight="700" font-family="Inter, Arial, sans-serif" text-anchor="start" letter-spacing="3.6">FRONTEND  /  RESPONSIVE WEB</text>
+<text x="88" y="139" fill="#FFFFFF" font-size="49" font-weight="760" font-family="Inter, Arial, sans-serif" text-anchor="start">Avspark</text>
+<text x="88" y="182" fill="#BED5E8" font-size="22" font-weight="470" font-family="Inter, Arial, sans-serif" text-anchor="start">Football news portal with browser-based content management.</text>
+<line x1="88" y1="207" x2="1112" y2="207" stroke="#2C5675" stroke-width="1.5" opacity="1"/>
+<text x="90" y="591" fill="#80A4BE" font-size="15" font-weight="650" font-family="Inter, Arial, sans-serif" text-anchor="start" letter-spacing="2">ROBIN PALM  /  GITHUB.COM/PELMM</text>
+<rect x="95" y="241" width="1000" height="282" rx="18" fill="#0A151E" stroke="#306C70" stroke-width="2"/>
+<rect x="95" y="241" width="1000" height="58" rx="18" fill="#175C37"/>
+<text x="128" y="281" fill="#F2FAF6" font-size="31" font-weight="750" font-family="Inter, Arial, sans-serif" text-anchor="start">AVSPARK</text>
+<text x="888" y="278" fill="#F0F9ED" font-size="15" font-weight="650" font-family="Inter, Arial, sans-serif" text-anchor="middle" letter-spacing="1.2">NEWS   LEAGUES   ARTICLES</text>
+<rect x="126" y="320" width="520" height="167" rx="15" fill="#0B2C26" stroke="#2A7F56" stroke-width="1"/>
+<circle cx="543" cy="408" r="65" fill="none" stroke="#63D9A2" stroke-width="3" opacity=".25"/>
+<path d="M435 355 L598 455 M598 355 L435 455" stroke="#4FB58E" opacity=".2" stroke-width="3"/>
+<circle cx="511" cy="414" r="29" fill="none" stroke="#ADEED0" stroke-width="3"/>
+<text x="151" y="354" fill="#6EE1AB" font-size="13" font-weight="740" font-family="Inter, Arial, sans-serif" text-anchor="start" letter-spacing="2">LATEST STORIES</text>
+<text x="150" y="395" fill="#FFFFFF" font-size="29" font-weight="750" font-family="Inter, Arial, sans-serif" text-anchor="start">Football headlines</text>
+<text x="150" y="430" fill="#D3EBDB" font-size="18" font-weight="500" font-family="Inter, Arial, sans-serif" text-anchor="start">Explore the latest updates</text>
+<rect x="150" y="451" width="156" height="24" rx="8" fill="#276D49"/>
+<text x="229" y="468" fill="#E6FFEE" font-size="13" font-weight="750" font-family="Inter, Arial, sans-serif" text-anchor="middle">READ ARTICLE</text>
+<rect x="672" y="320" width="188" height="166" rx="13" fill="#163547" stroke="#345B68" stroke-width="1"/>
+<circle cx="767" cy="372" r="31" fill="none" stroke="#A5DFCA" stroke-width="3"/>
+<path d="M767 342 V403 M739 372 H795" stroke="#78BD9C" stroke-width="3" opacity=".6"/>
+<text x="693" y="438" fill="#F4FAFF" font-size="17" font-weight="740" font-family="Inter, Arial, sans-serif" text-anchor="start">MATCHDAY</text>
+<text x="693" y="461" fill="#B1CEDA" font-size="14" font-weight="500" font-family="Inter, Arial, sans-serif" text-anchor="start">Featured stories</text>
+<rect x="885" y="320" width="178" height="166" rx="13" fill="#163547" stroke="#345B68" stroke-width="1"/>
+<path d="M928 392 L947 350 L962 382 L978 344 L1012 391" stroke="#DEBB62" stroke-width="4" fill="none"/>
+<text x="904" y="438" fill="#F4FAFF" font-size="17" font-weight="740" font-family="Inter, Arial, sans-serif" text-anchor="start">LEAGUES</text>
+<text x="904" y="461" fill="#B1CEDA" font-size="14" font-weight="500" font-family="Inter, Arial, sans-serif" text-anchor="start">Browse topics</text>
+<rect x="92" y="541" width="86" height="34" rx="11" fill="#5A3428" stroke="#426482" stroke-width="1"/><text x="109" y="565" fill="#ECF8FF" font-size="16" font-weight="600" font-family="Inter, Arial, sans-serif" text-anchor="start">HTML</text>
+<rect x="220" y="541" width="86" height="34" rx="11" fill="#174568" stroke="#426482" stroke-width="1"/><text x="237" y="565" fill="#ECF8FF" font-size="16" font-weight="600" font-family="Inter, Arial, sans-serif" text-anchor="start">CSS</text>
+<rect x="327" y="541" width="162" height="34" rx="11" fill="#67532C" stroke="#426482" stroke-width="1"/><text x="344" y="565" fill="#ECF8FF" font-size="16" font-weight="600" font-family="Inter, Arial, sans-serif" text-anchor="start">JAVASCRIPT</text>
+<rect x="518" y="541" width="149" height="34" rx="11" fill="#443567" stroke="#426482" stroke-width="1"/><text x="535" y="565" fill="#ECF8FF" font-size="16" font-weight="600" font-family="Inter, Arial, sans-serif" text-anchor="start">BOOTSTRAP</text>
+</svg>
