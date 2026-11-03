@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title description">
+  <title id="title">Robin Palm — Java and full-stack developer</title>
+  <desc id="description">A dark navy professional developer banner featuring subtle blue light effects, Java/full-stack typography and a minimalist terminal window.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#080F20"/>
+      <stop offset="0.55" stop-color="#0B1A32"/>
+      <stop offset="1" stop-color="#0C1325"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#1171DA" stop-opacity="0.38"/>
+      <stop offset="1" stop-color="#1171DA" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#08BFC1" stop-opacity="0.21"/>
+      <stop offset="1" stop-color="#08BFC1" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#2DD4BF"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38BDF8" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#38BDF8" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#2DD4BF" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" fill="none" stroke="#8CB7E1" stroke-opacity="0.055" stroke-width="1"/>
+    </pattern>
+    <filter id="shadow" x="-30%" y="-40%" width="160%" height="190%">
+      <feDropShadow dx="0" dy="13" stdDeviation="20" flood-color="#000711" flood-opacity="0.5"/>
+    </filter>
+    <clipPath id="cardclip"><rect x="763" y="63" width="445" height="287" rx="18"/></clipPath>
+  </defs>
+
+  <rect x="0" y="0" width="1280" height="420" rx="20" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1280" height="420" rx="20" fill="url(#grid)"/>
+  <ellipse cx="950" cy="90" rx="500" ry="310" fill="url(#glow1)"/>
+  <ellipse cx="300" cy="400" rx="500" ry="300" fill="url(#glow2)"/>
+
+  <path d="M0 355C180 275 350 410 565 308S910 235 1280 330" fill="none" stroke="url(#line)" stroke-width="1.5"/>
+  <path d="M0 374C240 294 365 435 585 334S960 258 1280 355" fill="none" stroke="url(#line)" stroke-width="1" opacity="0.55"/>
+
+  <!-- Monogram + labels -->
+  <rect x="72" y="61" width="64" height="55" rx="14" fill="#122943" stroke="#2A6C93" stroke-width="1"/>
+  <path d="M91 79V98M91 79H103Q112 79 112 87Q112 95 103 95H91M102 95L111 104" fill="none" stroke="url(#accent)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="121" cy="103" r="3" fill="#2DD4BF"/>
+  <text x="149" y="94" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="3" fill="#9DD6F4">DEVELOPER PORTFOLIO</text>
+
+  <text x="72" y="217" font-family="Arial, Helvetica, sans-serif" font-size="70" font-weight="750" letter-spacing="-2" fill="#F2F7FF">Robin Palm<tspan fill="#31CBE1">.</tspan></text>
+  <rect x="72" y="238" width="59" height="4" rx="2" fill="url(#accent)"/>
+  <text x="72" y="277" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="600" letter-spacing="1.4" fill="#B4CDE5">JAVA  /  FULL-STACK  /  SYSTEM DESIGN</text>
+  <text x="72" y="314" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#8FAEC9">Building reliable systems and thoughtful interfaces.</text>
+  <circle cx="78" cy="356" r="4" fill="#2DD4BF"/>
+  <text x="91" y="361" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="1.6" fill="#9AB7D0">MALMÖ, SWEDEN</text>
+
+  <!-- Terminal panel -->
+  <g filter="url(#shadow)">
+    <rect x="763" y="63" width="445" height="287" rx="18" fill="#0A1325" stroke="#34617D" stroke-opacity="0.85"/>
+    <rect x="763" y="63" width="445" height="52" rx="18" fill="#16283C"/>
+    <rect x="763" y="95" width="445" height="20" fill="#16283C"/>
+    <g clip-path="url(#cardclip)">
+      <circle cx="791" cy="89" r="6" fill="#F87171"/>
+      <circle cx="813" cy="89" r="6" fill="#FBBF24"/>
+      <circle cx="835" cy="89" r="6" fill="#34D399"/>
+      <text x="979" y="94" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#91ABC4">robin@dev ~ / profile</text>
+      <text x="798" y="154" font-family="Consolas, 'Courier New', monospace" font-size="17" fill="#34D399">$</text>
+      <text x="822" y="154" font-family="Consolas, 'Courier New', monospace" font-size="17" fill="#DCEAFF">whoami</text>
+      <text x="798" y="190" font-family="Consolas, 'Courier New', monospace" font-size="16" fill="#66CCED">java-full-stack-developer</text>
+      <text x="798" y="236" font-family="Consolas, 'Courier New', monospace" font-size="16" fill="#9BB5CD">// what I build</text>
+      <text x="798" y="268" font-family="Consolas, 'Courier New', monospace" font-size="16" fill="#DCEAFF"><tspan fill="#34D399">✓</tspan>  REST APIs &amp; backend</text>
+      <text x="798" y="297" font-family="Consolas, 'Courier New', monospace" font-size="16" fill="#DCEAFF"><tspan fill="#34D399">✓</tspan>  Web &amp; mobile apps</text>
+      <rect x="797" y="316" width="9" height="17" rx="1" fill="#2DD4BF"/>
+    </g>
+  </g>
+  <rect x="0.7" y="0.7" width="1278.6" height="418.6" rx="19.3" fill="none" stroke="#3B6682" stroke-opacity="0.22" stroke-width="1.4"/>
+</svg>
